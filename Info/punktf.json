@@ -1,0 +1,84 @@
+[
+  {
+    "name": "punktf",
+    "full_name": "michidk/tools/punktf",
+    "tap": "michidk/tools",
+    "oldname": null,
+    "aliases": [
+
+    ],
+    "versioned_formulae": [
+
+    ],
+    "desc": "A cross-platform multi-target dotfiles manager",
+    "license": null,
+    "homepage": "https://github.com/Shemnei/punktf",
+    "versions": {
+      "stable": "v1.0.0-alpha",
+      "head": null,
+      "bottle": false
+    },
+    "urls": {
+      "stable": {
+        "url": "https://github.com/Shemnei/punktf/releases/download/v1.0.0-alpha/punktf-x86_64-unknown-linux-musl.tar.gz",
+        "tag": null,
+        "revision": null
+      }
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [
+
+    ],
+    "build_dependencies": [
+
+    ],
+    "dependencies": [
+
+    ],
+    "recommended_dependencies": [
+
+    ],
+    "optional_dependencies": [
+
+    ],
+    "uses_from_macos": [
+
+    ],
+    "requirements": [
+
+    ],
+    "conflicts_with": [
+      "punktf"
+    ],
+    "caveats": null,
+    "installed": [
+      {
+        "version": "v1.0.0-alpha",
+        "used_options": [
+
+        ],
+        "built_as_bottle": false,
+        "poured_from_bottle": false,
+        "runtime_dependencies": [
+
+        ],
+        "installed_as_dependency": false,
+        "installed_on_request": true
+      }
+    ],
+    "linked_keg": "v1.0.0-alpha",
+    "pinned": false,
+    "outdated": false,
+    "deprecated": false,
+    "deprecation_date": null,
+    "deprecation_reason": null,
+    "disabled": false,
+    "disable_date": null,
+    "disable_reason": null
+  }
+]
