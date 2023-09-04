@@ -3,7 +3,7 @@ class Vscli < Formula
     homepage "https://github.com/michidk/vscli"
     version "0.1.5"
     url "https://github.com/michidk/vscli/releases/download/v0.1.5/vscli-x86_64-unknown-linux-musl.tar.gz"
-    sha256 "40cdfd731237650f968b0077a363806e68190ee6bd992937dcc3c2b168c0f258"
+    sha256 "7305b0c8b4538935ed5cf588edfeb1dd3d704451db5ee4c360b6d6fd0aa233c9"
   
     conflicts_with "vscli"
   
