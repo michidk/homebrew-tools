@@ -1,9 +1,9 @@
 class Punktf < Formula
   desc "A cross-platform multi-target dotfiles manager"
   homepage "https://github.com/Shemnei/punktf"
-  version "3.0.0"
-  url "https://github.com/Shemnei/punktf/releases/download/v3.0.0/punktf-x86_64-unknown-linux-musl.tar.gz"
-  sha256 "e390ccd61dc12ad08d013ed1682d7e615e442b874977d35118563188fe3e0db6"
+  version "3.1.1"
+  url "https://github.com/Shemnei/punktf/releases/download/v3.1.1/punktf-x86_64-unknown-linux-musl.tar.gz"
+  sha256 "0259d2fefe23e5c45ad874a835ed134b14631685e8c7a5a94d28aedebc69b340"
 
   conflicts_with "punktf"
 
